@@ -1,16 +1,18 @@
-## Hi there 👋
+ Olá, eu sou o Henrique Da Silva Correia! 👋
 
-<!--
-**henrique971/henrique971** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+ Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  Sou um estudante do ensino medio
+-  Atualmente estou aprendendo a programar em #Html #CSS e #JavaScrpt
+-  Estou trabalhando em [Um projeto atual seu, se tiver].
+-  Pronomes: [Seus pronomes, se quiser].
+
+Vamos nos conectar!
+
+- Portfólio: https://sites.google.com/estudante.sesisenai.org.br/portifolio-henrique-da-silva?usp=sharing
+- Email: henriquehcr10@gmail.com
+
+
+
+!meu github (https://github.com/henrique971)
